@@ -18,8 +18,8 @@ F-statistic: 0.482 on 3 and 266 DF, p-value: 0.6951
 Interpretation:
 • Without connectedness and salience, average intake is 92.06 calories.
 • Connectedness, without high salience, can reduce the intake to (92.06 – 2.48) = 89.58 calories.
-•	Salience, without connectedness, can do so to (92.06 – 1.29) = 90.77 calories.
-•	Their interaction, (high connectedness + high salience) reduces the intake to (92.06 - 2.48 - 1.29 - 5.86) = 82.43 calories. 
-•	With p-values <0.05 neither connectedness nor salience, nor their interaction poses any significant effect (with 95% confidence) on the calorie intake. 
-•	DF = # of records - # of predictors
-•	With an adjusted R^2 (correlation^2)<0, the model does poorly in explaining the actual variations.
+• Salience, without connectedness, can do so to (92.06 – 1.29) = 90.77 calories.
+• Their interaction, (high connectedness + high salience) reduces the intake to (92.06 - 2.48 - 1.29 - 5.86) = 82.43 calories. 
+• With p-values <0.05 neither connectedness nor salience, nor their interaction poses any significant effect (with 95% confidence) on the calorie intake. 
+• DF = # of records - # of predictors
+• With an adjusted R^2 (correlation^2)<0, the model does poorly in explaining the actual variations.
